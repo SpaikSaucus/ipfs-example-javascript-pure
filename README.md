@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-* Download
+* Download this repository
 * Open file src/index.html in browser and enjoy!
 * Recomendations:
     * Head over to https://proto.school to take the [IPFS course](https://proto.school/course/ipfs) that covers core IPFS concepts.
